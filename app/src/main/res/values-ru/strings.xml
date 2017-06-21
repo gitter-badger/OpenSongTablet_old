@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="capo_toggle">"Капо связки переключения"</string>
-    <string name="capo_toggle_onlycapo">"Показать только Капо связки если таковые имеются"</string>
-    <string name="capo_toggle_bothcapo">"Показать как капо и родные аккорды если таковые имеются"</string>
+    <string name="capo_toggle">"Переключение аккордов с каподастром"</string>
+    <string name="capo_toggle_onlycapo">"Если возможно показывать только аккорды с каподастром"</string>
+    <string name="capo_toggle_bothcapo">"Если возможно показывать аккорды с каподастром и без него"</string>
     <string name="language">"Язык"</string>
     <string name="refreshsongs">"Обновить меню песни"</string>
-    <string name="custom1_theme">"Особый 1"</string>
-    <string name="custom2_theme">"Особый 2"</string>
-    <string name="scripture">"Cвященное писание"</string>
-    <string name="slide">"Cтраница"</string>
+    <string name="custom1_theme">"Тема 1"</string>
+    <string name="custom2_theme">"Тема 2"</string>
+    <string name="scripture">"Стих из Библии"</string>
+    <string name="slide">"Cлайд"</string>
 
     <string name="visualmetronome">"Визуальный"</string>
     <string name="onsonglocation">"Вы должны разместить Онсона файл резервной копии в /documents/OpenSong/ папки для того, чтобы быть доступными для импорта"</string>
