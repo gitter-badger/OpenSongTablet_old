@@ -228,50 +228,50 @@
 		
 	<string name="add_song_to_set">"Добавить текущую песню установить"</string>
 
-	<string name="edit_song_title">"Название песни"</string>
+	<string name="edit_song_title">"Название"</string>
 	<string name="edit_song_author">"Автор"</string>
-	<string name="edit_song_lyrics">"Тексты песен"</string>
+	<string name="edit_song_lyrics">"Текст"</string>
 	<string name="edit_song_copyright">"Информация об авторском праве"</string>
-	<string name="edit_song_presentation">"Порядок представления"</string>
+	<string name="edit_song_presentation">"Порядок презентации"</string>
 	<string name="edit_song_ccli">"CCLI"</string>
-	<string name="edit_song_capo">"Капо лад"</string>
-	<string name="edit_song_key">"Шпилька"</string>
+	<string name="edit_song_capo">"Каподастр"</string>
+	<string name="edit_song_key">"Тональность"</string>
 	<string name="edit_song_aka">"Также известный, как"</string>
-	<string name="edit_song_keyline">"Заголовок в одну строку"</string>
+	<string name="edit_song_keyline">"Ключевая строка"</string>
 	<string name="edit_song_user1">"Пользователь 1"</string>
 	<string name="edit_song_user2">"Пользователь 2"</string>
 	<string name="edit_song_user3">"Пользователь 3"</string>
 	<string name="edit_song_theme">"Тема"</string>
 	<string name="edit_song_tempo">"Темп"</string>
-	<string name="edit_song_timesig">"Временная отметка"</string>
+	<string name="edit_song_timesig">"Размер"</string>
 	<string name="edit_song_hymn">"Число Гимн"</string>
-	<string name="edit_song_availabletags">"[В] = Стих, [V1] = Стих 1, [C] = хор, [С1] для хора 1, [P] = Prechorus, [T] = тегов, [B] = мост, [&#8230; (все, что вы хотите ) &#8230;] = пользовательских тегов. \ п Лирические строки начинаются с пробела аккордов линий с полной остановки, строки комментариев с запятой."</string>
+	<string name="edit_song_availabletags">"[В] = Мост, [V1] = Куплет 1, [C] = Припев, [С1] Припев 1, [P] = Предприпев, [T] = Тэги, [B] = Мост, [&#8230; (все, что вы хотите ) &#8230;] = пользовательские тэги. \ п Строки стихов начинаются с пробела, аккорды с точки, комментарии с запятой."</string>
     <string name="edit_song_duration">"Продолжительность песни (в секундах)"</string>
-    <string name="edit_song_notes">"Песня заметки"</string>
+    <string name="edit_song_notes">"Заметки"</string>
     <string name="edit_song_midi">"MIDI сообщение, отправленное из песни"</string>
     <string name="edit_song_midi_index">"MIDI сообщение, чтобы активировать песню"</string>
     <string name="edit_song_restrictions">"Ограничения"</string>
     <string name="edit_song_books">"Книги песня принадлежит"</string>
     <string name="edit_song_pitch">"Примечания труб шаг за песню"</string>  
 	
-	<string name="show_general_advanced">"Переключение общие / расширенный поля"</string>
-	<string name="edit_song_capo_print">"Распечатать Capo аккорды"</string>
+	<string name="show_general_advanced">"Обычные / Расширенные поля"</string>
+	<string name="edit_song_capo_print">"Печать аккордов с каподастром"</string>
 	
-	<string name="search_top">"Песня на вершине списка поиска выбранного"</string>
-	<string name="search_here">"Поиск здесь"</string>
+	<string name="search_top">"Выбрана первая найденая песня "</string>
+	<string name="search_here">"Искать здесь"</string>
 	
-	<string name="edit_cancel">"Выйти без сохранения"</string>
+	<string name="edit_cancel">"Выход без сохранения"</string>
 	<string name="edit_save">"Сохранить изменения"</string>
 	<string name="edit_delete">"Удалить эту песню"</string>
 	
 	<string name="areyousure">"Вы уверены? "</string>
-	<string name="overwritecurrentset">"Это приведет к перезаписи текущий набор."</string>
-	<string name="removesavedset">"Это приведет к удалению этого набора из папки вашего \"наборы\"."</string>
+	<string name="overwritecurrentset">"Это изменит текущий список."</string>
+	<string name="removesavedset">"Это приведет к удалению этого списка из папки."</string>
 	
 	<string name="yes">"Да"</string>
 	<string name="no">"Нет"</string>
 	<string name="ok">"Ok"</string>
-	<string name="cancel">"Отменить"</string>
+	<string name="cancel">"Отмена"</string>
 		
 	<string name="songfolderexists">"Папка OpenSong 'песни' уже существует. Отлично!"</string>
 	<string name="songfoldercreate">"Создание папки OpenSong 'песни'"</string>
