@@ -17,8 +17,8 @@
 	<string name="savesong">"Cохранить"</string>
     <string name="metronomepadsettings">"Метроном и фоновые параметры музыка"</string>
     <string name="metronome">"Метроном"</string>
-    <string name="temponotset">"Темп не был установлен для этой песни"</string>
-    <string name="timesignotset">"Время подпись не был установлен для этой песни"</string>
+    <string name="temponotset">"Темп не установлен"</string>
+    <string name="timesignotset">"Размер не установлен"</string>
     <string name="pad">"фоновая музыка"</string>
     <string name="wait">"Подождите ...."</string>
     <string name="volume">"объем"</string>
@@ -118,42 +118,42 @@
 
     <string name="transpose">"Транспонирование"</string>
     <string name="docontinue">"продолжать"</string>
-    <string name="chordformat_help">"Когда перенося песню , вы хотитеприложение для обнаружения формат аккордовпесни в каждом времени?"</string>
-	<string name="chordformat_check">"Обнаружение аккорд формате каждый раз, когда вы транспонировать"</string>
-	<string name="chordformat_default">"Всегда предполагайте, песни в моей предпочтительный формат аккордов"</string>
-    <string name="chordformat_check_short">"Всегда проверяйте"</string>
-    <string name="chordformat_default_short">"Не спрашивайте меня"</string>
+    <string name="chordformat_help">"Вы хотите, чтобы при Транспонировании приложение каждый раз определяло формат аккордов?"</string>
+	<string name="chordformat_check">"Определять формат аккордов при каждом транспонировании"</string>
+	<string name="chordformat_default">"Всегда преобразовывать в предпочтительный формат аккордов"</string>
+    <string name="chordformat_check_short">"Проверять всегда"</string>
+    <string name="chordformat_default_short">"Не спрашивать меня"</string>
     
     <string name="nothighenoughapi">"Вам необходима более новая версия Android для этого !"</string>
     
     <string name="checkchordformat">"Вы уверены, что эта песня в нужный формат аккорда ?"</string>
 	<string name="oldchordformat">"Обнаружен нынешний формат аккорд"</string>
 	
-    <string name="firstsong">"Показано первую песню"</string>
-    <string name="lastsong">"Показано последний элемент в наборе"</string>
+    <string name="firstsong">"Показать первую песню"</string>
+    <string name="lastsong">"Показать последнюю песню в списке"</string>
     
-    <string name="set_edit">"Редактировать"</string>
-    <string name="set_edit_title">"Редактировать текущий набор"</string>
-    <string name="set_help">"Перетащите песни вокруг , чтобы изменить порядок Вашего устройства"</string>
+    <string name="set_edit">"Изменить"</string>
+    <string name="set_edit_title">"Изменить текущий список"</string>
+    <string name="set_help">"Перетащите песни, чтобы изменить их порядок в списке"</string>
     
     <string name="currentset">"Текущий список"</string>
     <string name="setmargins">"Настройте\nотступы"</string>
     <string name="setxmargins">"Горизонтальный отступ"</string>
     <string name="setymargins">"Вертикальный отступ"</string>
-    <string name="update_projector">"Обновление\nпроектор"</string>
+    <string name="update_projector">"Обновить\nпроектор"</string>
     <string name="black_screen">"Черный экран"</string>
     <string name="choose_image1">"Выберите фоновое изображение 1"</string>
     <string name="choose_image2">"Выберите фоновое изображение 2"</string>
     <string name="choose_video1">"Выберите фоновое видео 1"</string>
     <string name="choose_video2">"Выберите фоновое видео 2"</string>
     
-    <string name="choosechordformat">"Выберите формат аккорда ( используется только при транспозиции песню )"</string>
+    <string name="choosechordformat">"Выберите формат аккордов ( важно при транспонировании )"</string>
     
-    <string name="switchtopresentmode">"Переключение в режим презентации"</string>
-    <string name="switchtoperformmode">"Переключение в режим производительности"</string>
-    <string name="presentermode">"режим презентации"</string>
-    <string name="sendtoprojector">"выступать"</string>
-    <string name="presoBackground">"Презентация фон"</string>
+    <string name="switchtopresentmode">"Перейти в режим Презентации"</string>
+    <string name="switchtoperformmode">"Перейти в режим Производительности"</string>
+    <string name="presentermode">"Режим презентации"</string>
+    <string name="sendtoprojector">"Проецировать"</string>
+    <string name="presoBackground">"Фон"</string>
     <string name="presoShowLogo">"Показать логотип"</string>
     <string name="notcompatible">"К сожалению, вы должны Android 4.2 или выше, чтобы использовать функцию на двойной экран презентации !"</string>
 	<string name="nodisplays">"Никакие внешние дисплеи не подключен . Пожалуйста, подключите к вторичному дисплею через выход HDMI или Miracast совместимый беспроводной дисплей ."</string>
