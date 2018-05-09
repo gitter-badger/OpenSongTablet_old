@@ -70,28 +70,28 @@
     <string name="pdf_functionnotavailable">"Эта функция не доступна для PDF документов"</string>
     <string name="pdf_selectpage">"Выберите страницу"</string>
     
-   	<string name="options_set">"НАБOP"</string>
-   	<string name="options_set_load">"нагружать"</string>
-   	<string name="options_set_save">"Cохранять"</string>
-	<string name="options_set_nameofset">"Новый набор имя"</string>
-   	<string name="options_set_clear">"Oчищать"</string>
-   	<string name="options_set_delete">"Удалять"</string>
-   	<string name="options_set_export">"Зкспортировать"</string>
-   	<string name="options_set_edit">"Отредактировать"</string>
+   	<string name="options_set">"СПИСОК"</string>
+   	<string name="options_set_load">"Загрузить"</string>
+   	<string name="options_set_save">"Cохранить"</string>
+	<string name="options_set_nameofset">"Переименовать"</string>
+   	<string name="options_set_clear">"Oчистить"</string>
+   	<string name="options_set_delete">"Удалить"</string>
+   	<string name="options_set_export">"Зкспорт"</string>
+   	<string name="options_set_edit">"Изменить"</string>
    	
 	<string name="options_song">"ПЕСНЯ"</string>
 	<string name="options_song_transpose">"Транспонирование"</string>
-	<string name="options_song_convert">"Преобразование песню к моему предпочтительный формат аккорда"</string>
+	<string name="options_song_convert">"Конвертировать аккорды в предпочтительный формат"</string>
 	<string name="options_song_sharp">"Используйте # аккорды"</string>
 	<string name="options_song_flat">"Используйте b аккорды"</string>
 	<string name="options_song_edit">"Редактировать"</string>
 	<string name="options_song_rename">"Переименовать"</string>
 	<string name="options_song_delete">"Удалить"</string>
-	<string name="options_song_new">"Новый"</string>
+	<string name="options_song_new">"Новая"</string>
 	<string name="options_song_export">"Экспорт"</string>
-    <string name="options_song_stickynotes">"Редактировать песня заметка"</string>
-    <string name="options_song_newfolder">"Создать новую папку песню"</string>
-    <string name="options_song_editfolder">"Изменить имя папки песня"</string>
+    <string name="options_song_stickynotes">"Изменить заметку"</string>
+    <string name="options_song_newfolder">"Создать новую папку"</string>
+    <string name="options_song_editfolder">"Изменить имя папки"</string>
 		
 	<string name="options_options">"ВАРИАНТЫ"</string>
 	<string name="options_options_theme">"Переключение темы"</string>
@@ -136,10 +136,10 @@
     <string name="set_edit_title">"Редактировать текущий набор"</string>
     <string name="set_help">"Перетащите песни вокруг , чтобы изменить порядок Вашего устройства"</string>
     
-    <string name="currentset">"Текущий набор"</string>
-    <string name="setmargins">"Настройте\nполя"</string>
-    <string name="setxmargins">"Горизонтальная размер маржи"</string>
-    <string name="setymargins">"Вертикальный размер маржи"</string>
+    <string name="currentset">"Текущий список"</string>
+    <string name="setmargins">"Настройте\nотступы"</string>
+    <string name="setxmargins">"Горизонтальный отступ"</string>
+    <string name="setymargins">"Вертикальный отступ"</string>
     <string name="update_projector">"Обновление\nпроектор"</string>
     <string name="black_screen">"Черный экран"</string>
     <string name="choose_image1">"Выберите фоновое изображение 1"</string>
