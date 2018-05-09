@@ -40,10 +40,10 @@
     <string name="latest_updates">"Последние обновления"</string>
     
     <string name="storage_choose">"Выбор папки"</string>
-    <string name="storage_help">"Пожалуйста, выберите место хранения по умолчанию для ваших файлов OpenSong. Вы можете изменить это в любое время из меню Options."</string>
-    <string name="storage_space">"Свободное пространство"</string>
-    <string name="storage_notavailable">"недоступен"</string>
-    <string name="storage_int">"Эмуляция внешних / внутренних хранение"</string>
+    <string name="storage_help">"Пожалуйста, выберите папку для хранения файлов OpenSong. Позже вы можете изменить это в настройках."</string>
+    <string name="storage_space">"Свободно"</string>
+    <string name="storage_notavailable">"Недоступно"</string>
+    <string name="storage_int">"Внутренняя память устройства"</string>
     <string name="storage_ext">"Внешние накопители"</string>
     
     <string name="link">"Cсылка"</string>
