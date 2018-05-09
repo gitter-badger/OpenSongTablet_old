@@ -39,7 +39,7 @@
     
     <string name="latest_updates">"Последние обновления"</string>
     
-    <string name="storage_choose">"Управление дискового пространства"</string>
+    <string name="storage_choose">"Выбор папки"</string>
     <string name="storage_help">"Пожалуйста, выберите место хранения по умолчанию для ваших файлов OpenSong. Вы можете изменить это в любое время из меню Options."</string>
     <string name="storage_space">"Свободное пространство"</string>
     <string name="storage_notavailable">"недоступен"</string>
